@@ -1,0 +1,8 @@
+name = "sodium"
+filename = "sodium-1.16.1-v1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-sodium-1.16.1/releases/download/v1/sodium-1.16.1-v1.jar"
+hash-format = "sha256"
+hash = "293359aff234fb5b83a9ee3693d37f74e5ec8f5f529d297d3788520ac60b438c"

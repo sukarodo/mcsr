@@ -1,0 +1,13 @@
+name = "Voyager 2"
+filename = "voyager-2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d4f5810d238d948cdc24f2c4f9bb02e4f05d0c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4139462
+project-id = 722866
