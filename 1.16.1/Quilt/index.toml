@@ -36,11 +36,6 @@ hash = "dac2eb5bb6800022baef7cf10512815c1a31a9be1ccd4e6cd63d85946b62ce88"
 metafile = true
 
 [[files]]
-file = "mods/mcsr-ranked.pw.toml"
-hash = "41ae6316df38dc1331394a54f0e3e563f15c4918361a02683e93ed0c863ecd82"
-metafile = true
-
-[[files]]
 file = "mods/serversiderng.pw.toml"
 hash = "d1b50fc37681926f1d56ac82bcbdf9ea9b4ed9f54fce697189d0626343efab68"
 metafile = true

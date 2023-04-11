@@ -1,0 +1,71 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/antiresourcereload.pw.toml"
+hash = "9149866af7ebadeced8f085f76e0787c294f095e38857264741adb6707348f93"
+metafile = true
+
+[[files]]
+file = "mods/atum.pw.toml"
+hash = "d214b2ba00ea59b529678eac0240dd4a9f81111db4dab6ded21d1ee63b87fc9f"
+metafile = true
+
+[[files]]
+file = "mods/fast-reset.pw.toml"
+hash = "9fc75d2f4a49c933bb463597c7795e0581347999f4969ad55133d91dbdb1b833"
+metafile = true
+
+[[files]]
+file = "mods/forceport.pw.toml"
+hash = "fc25742c84fc67b77063aa2720dae2dd540e9d3bea893f35424909d4371e1726"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lazystronghold.pw.toml"
+hash = "b3529792070e434dc62ef82199800ebf6c468a02f6412261f72ec2ba862aa187"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "dac2eb5bb6800022baef7cf10512815c1a31a9be1ccd4e6cd63d85946b62ce88"
+metafile = true
+
+[[files]]
+file = "mods/mcsr-ranked.pw.toml"
+hash = "41ae6316df38dc1331394a54f0e3e563f15c4918361a02683e93ed0c863ecd82"
+metafile = true
+
+[[files]]
+file = "mods/serversiderng.pw.toml"
+hash = "d1b50fc37681926f1d56ac82bcbdf9ea9b4ed9f54fce697189d0626343efab68"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "96f19fd407d26c9798ece6fe0461756cef3e5f1c978d9b4fd36e0ac525f1dc69"
+metafile = true
+
+[[files]]
+file = "mods/speedrunigt.pw.toml"
+hash = "b882b51cf21952f315dca16d98b9f3a40ac4c8e1c6f62f61d502d2db7e3d5fde"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "016e5b2b5c4927f5c24b3a11abef81232f765d78709dfc148dda7c49f3047139"
+metafile = true
+
+[[files]]
+file = "mods/voyager.pw.toml"
+hash = "1abd29acff7ce93f27f53086c32a0f621f1b0dc7ddd2dfca2d9bf157bd55758c"
+metafile = true
+
+[[files]]
+file = "mods/worldpreview.pw.toml"
+hash = "ec780ddae2351cba8a5d2965eb085f5e86d017fe506c03e3286172a7e508e5f4"
+metafile = true

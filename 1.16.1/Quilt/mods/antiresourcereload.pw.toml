@@ -1,0 +1,8 @@
+name = "antiresourcereload"
+filename = "antiresourcereload-1.16.1-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-antiresourcereload-1.16.1/releases/download/latest/antiresourcereload-1.16.1-2.0.0.jar"
+hash-format = "sha256"
+hash = "7bc85c3b2184866b75bfabd56e3bfe73d8868c001307038f9d95d439dda49f07"

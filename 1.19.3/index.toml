@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/biomethreadlocalfix.pw.toml"
+hash = "2559ca74b427006f266b47583da7e7bfb6f6ab886118e03f6fbc16964fbf3265"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "b19413f44ded24e46e153ca50f04321920753e604fb276d80300490db71642a6"
+metafile = true
+
+[[files]]
+file = "mods/forceport.pw.toml"
+hash = "ddd9240f39d35479ae7ed8bfec7b45e53c89a07f6d44a87277129c88d4ca8f0f"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2dcac529633f402a5a325b8031bf15a06db668b912e6be1596836bde3afb17f1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1ab96020d0954a72b5cc150b375f57cf8968ac2c1809a000472076f8675eb9ea"
+metafile = true
+
+[[files]]
+file = "mods/speedrunigt.pw.toml"
+hash = "d77f81cd3f2574116f4048016acbc72e0c32f2ff5fc9c024358c6dd45cfe1323"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true

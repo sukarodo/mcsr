@@ -1,0 +1,13 @@
+name = "MCSR (Quilt)"
+author = "sukarodo / uchks"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0776f99ccfd400a10c015531361905f73341a7df5d4f3216244150624dce853f"
+
+[versions]
+minecraft = "1.16.1"
+quilt = "0.18.9"

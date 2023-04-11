@@ -1,0 +1,8 @@
+name = "forceport"
+filename = "forceport-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/DuncanRuns/Force-Port-Mod/releases/download/v1.1.0/forceport-1.1.0.jar"
+hash-format = "sha256"
+hash = "2d717446fec3f4c8ce59d873bd0fad159e10fced68777aa7f40b77858923c14c"

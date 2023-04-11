@@ -1,0 +1,8 @@
+name = "serverSideRNG"
+filename = "serverSideRNG-9.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-serversiderng-1.16.1/releases/download/latest/serverSideRNG-9.0.0.jar"
+hash-format = "sha256"
+hash = "cf6e6f05dd62cde0d671e5da5b87599882c9ee097097ef404575ec8e60778f52"
